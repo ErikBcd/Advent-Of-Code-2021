@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include <queue>
 
 int partOne() {
     std::ifstream is("input");
