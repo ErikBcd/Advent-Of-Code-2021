@@ -6,7 +6,7 @@
 
 using namespace std;
 
-typedef pair<int, int> coord;
+typedef pair<ulong, ulong> coord;
 
 string pretty(coord c) {
     string o = "[" + to_string(c.first) + ", " + to_string(c.second) + "]";
